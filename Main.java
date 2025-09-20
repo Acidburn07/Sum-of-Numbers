@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // Ask for the first number
+        // Lets start with first number
         try (Scanner scanner = new Scanner(System.in)) {
             // Ask for the first number
             System.out.println("First number?");
