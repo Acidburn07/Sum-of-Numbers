@@ -8,7 +8,7 @@ public class Main {
             System.out.println("First number?");
             int num1 = scanner.nextInt();
             
-            // Ask for the second number
+            // Now Second Number
             System.out.println("Second number?");
             int num2 = scanner.nextInt();
             
